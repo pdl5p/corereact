@@ -4,3 +4,5 @@ build
 server/bin/
 server/obj/
 public/dist/
+
+project.lock.json
