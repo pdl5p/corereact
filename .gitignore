@@ -1,2 +1,6 @@
 node_modules
 build
+
+server/bin/
+server/obj/
+public/dist/
